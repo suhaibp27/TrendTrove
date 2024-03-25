@@ -38,6 +38,6 @@ This project is an e-commerce website developed using React.js. It fetches produ
 
 ## Credits
 
-- React.js: [https://reactjs.org/](https://reactjs.org/)
+- React.js: [https://react.dev/](https://react.dev/)
 - React Router: [https://reactrouter.com/](https://reactrouter.com/)
 - Fake API: [https://fakestoreapi.com/](https://fakestoreapi.com/)
